@@ -1,0 +1,24 @@
+.cart-icono {
+    font-size: 1em;
+    cursor: pointer;
+    padding: 1rem;
+    border-radius: 8px;
+    transition: all 1s;
+    color: black;
+}
+
+.display {
+        background-color: pink;
+        color: black;
+        border-radius: 50%;
+        display: inline-block;
+        font-size: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        height: 18px;
+        line-height: 17px;
+        position: absolute;
+        text-align: center;
+        width: 18px;
+        transform: translate(-10px, 1px);
+}
+

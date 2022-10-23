@@ -1,0 +1,8 @@
+.saludo{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size: 20px;
+}

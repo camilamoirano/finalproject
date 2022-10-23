@@ -1,0 +1,29 @@
+.datos{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    font-size: 1.6rem;
+    margin: 30px;
+}
+.inp{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+  
+}
+
+.form-item{
+    display: flex;
+    justify-content: center;
+}
+
+.enviar{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.datos{
+    display: flex;
+    justify-content: center;
+}
